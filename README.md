@@ -5,10 +5,10 @@
 
 會得到如下的效果：
 
-產電量
+- 產電量
 <img src="generation.png" alt="(圖)產電量" width="400">
 
-用電量
+- 用電量
 <img src="consumption.png" alt="(圖)用電量" width="400">
 
 將每天的產電量減去用電量，得到
