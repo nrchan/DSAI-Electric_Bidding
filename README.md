@@ -9,10 +9,10 @@
 會得到如下的結果：
 
 - 產電量
-<img src="generation.png" alt="(圖)產電量" width="400">
+<img src="img/generation.png" alt="(圖)產電量" width="400">
 
 - 用電量
-<img src="consumption.png" alt="(圖)用電量" width="400">
+<img src="img/consumption.png" alt="(圖)用電量" width="400">
 
 可以發現，如果原本的線並不是太規則，後來的預測也只能有個大致的趨勢而已。
 
@@ -23,7 +23,7 @@
 這麼做的結果如下：
 
 - 用電差
-<img src="diff.png" alt="(圖)用電差" width="400">
+<img src="img/diff.png" alt="(圖)用電差" width="400">
 
 可以發現，雖然趨勢是差不多的，但是整個數值還是有可見的誤差。
 
@@ -32,19 +32,19 @@
 如果換參數的話，可以發現參數 s 的部分影響滿大的：
 
 - s = 2
-<img src="diff2.png" alt="(圖)用電差2" width="400">
+<img src="img/diff2.png" alt="(圖)用電差2" width="400">
 
 - s = 6
-<img src="diff6.png" alt="(圖)用電差6" width="400">
+<img src="img/diff6.png" alt="(圖)用電差6" width="400">
 
 - s = 12
-<img src="diff12.png" alt="(圖)用電差12" width="400">
+<img src="img/diff12.png" alt="(圖)用電差12" width="400">
 
 - s = 24
-<img src="diff.png" alt="(圖)用電差24" width="400">
+<img src="img/diff.png" alt="(圖)用電差24" width="400">
 
 - s = 48
-<img src="diff48.png" alt="(圖)用電差48" width="400">
+<img src="img/diff48.png" alt="(圖)用電差48" width="400">
 
 以方均根差衡量的話，只要 s 不要小的太誇張，其實最後的結果都是差不多的。
 
